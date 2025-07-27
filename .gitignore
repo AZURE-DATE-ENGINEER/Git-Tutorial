@@ -1,3 +1,4 @@
 .env
 api_secrets.txt
 bronze_folder
+.vscode
